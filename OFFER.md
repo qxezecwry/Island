@@ -83,5 +83,5 @@
 - Бугаев Вадим Евгеньевич
 - Статус: плательщик налога на профессиональный доход (самозанятый)
 - ИНН: 615399918417
-- Email: vbugayev.vadim.00@mail.ru
+- Email: bugayev.vadim.00@mail.ru
 - Поддержка: @qxezecwry в Telegram, бот @dislandbot
