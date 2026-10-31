@@ -102,3 +102,5 @@ Island появится в меню «Пуск» и в «Параметры → 
 ## Поддержка
 
 Вопросы, покупка и ключи — в Telegram: [@dislandbot](https://t.me/dislandbot)
+
+Условия покупки Island Pro — [публичная оферта](OFFER.md).
